@@ -65,7 +65,7 @@ The analysis may not account for external factors such as changes in gaming tech
 
 
 ### Refrences
-1.[Link to the dataset] (https://docs.google.com/spreadsheets/d/1ZZbMyam63KBjDOK_Mc25NxyJvOt8v0Mv5ZxPMvHRjxA
+[Link to the dataset] (https://docs.google.com/spreadsheets/d/1ZZbMyam63KBjDOK_Mc25NxyJvOt8v0Mv5ZxPMvHRjxA
 /edit?usp=drive_link)
 
 
