@@ -12,7 +12,10 @@
    
 
 ### Project Overview
+---
 This data analysis project provides a comprehensive view of the video game store based in Bali, offering insights into various aspects including the game's title, release year, genre, publisher, and sales greater than 100,000 copies across regions like the European Union, Japan, and North America. By analyzing this dataset, I aim to uncover patterns and address questions that will enhance our understanding of the data. These questions include determining the genre with the highest representation, identifying the genre with the highest sales, ranking the top 10 publishers by sales, listing the top 10 best-selling games, pinpointing the year with the highest sales, and offering insights into the potential reasons behind this peak with the aid of an interactive dashboard.
+
+
 ![Video Games Dashboard](https://github.com/chieduife/Video-Games-Analysis/assets/148073427/6ec132c1-0b66-496f-9bf3-9f4229bf506f)
 
 
