@@ -27,7 +27,7 @@ This data analysis project provides a comprehensive view of the video game store
 I conducted a data validation and quality check on the already cleaned Excel dataset to ensure its continued accuracy and integrity.
 
 
-### Explanatory Data Analysis(EDA)
+### Exploratory Data Analysis(EDA)
 
 EDA incolves expploring the Video game data to answer key questions, such as:
 - What Genre has the highest percentage of games?
