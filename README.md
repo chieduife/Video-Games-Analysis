@@ -29,7 +29,7 @@ I conducted a data validation and quality check on the already cleaned Excel dat
 
 ### Exploratory Data Analysis(EDA)
 
-EDA incolves expploring the Video game data to answer key questions, such as:
+EDA involves exploring the Video game data to answer key questions, such as:
 - What Genre has the highest percentage of games?
 - What Genre has the highest sales?
 - Who are the top 10 publishers by sales?
